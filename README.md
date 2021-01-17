@@ -8,3 +8,4 @@ A repository to keep links to Codewars questions where the author is me
 ## Shopping Calculation (C#) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  https://www.codewars.com/kata/5fc907f91853c00018787c73
 ## Guess My Number (C#) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; https://www.codewars.com/kata/5fcb75fbba9fee001eaf5a73
 ## Powers Up (JS, Pyhton) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; https://www.codewars.com/kata/6001f1b46aad3700080d20a7
+## Sudoku Creator (C#) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; https://www.codewars.com/kata/6003aada65a980001375d62b
