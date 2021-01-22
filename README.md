@@ -9,4 +9,4 @@ A repository to keep links to Codewars questions where the author is me
 ## Guess My Number (C#) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; https://www.codewars.com/kata/5fcb75fbba9fee001eaf5a73
 ## Powers Up (JS, Pyhton) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; https://www.codewars.com/kata/6001f1b46aad3700080d20a7
 ## Sudoku Creator (C#, JS) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; https://www.codewars.com/kata/6003aada65a980001375d62b
-## Find the Nth Reverse Number (JS) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; https://www.codewars.com/kata/600b1c6c58bf59001c1b419e
+## Find the Nth Reverse Number (JS, Python) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; https://www.codewars.com/kata/600b1c6c58bf59001c1b419e
