@@ -10,3 +10,4 @@ A repository to keep links to Codewars questions where the author is me
 ## Powers Up (JS, Pyhton) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; https://www.codewars.com/kata/6001f1b46aad3700080d20a7
 ## Sudoku Creator (C#, JS) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; https://www.codewars.com/kata/6003aada65a980001375d62b
 ## Find the nth Reverse Number (JS, Python) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; https://www.codewars.com/kata/600bfda8a4982600271d6069
+## Find the nth Reverse Number (Extreme) (JS, Python) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; https://www.codewars.com/kata/600c18ec9f033b0008d55eec
